@@ -10,4 +10,4 @@ Para poder executar o programa, prossiga com os seguintes passos:
 
 Após esses passos você terá uma cópia do projeto em sua IDE.
 Para executar, basta clicar com o botão direito no arquivo Main.java e selecionar Run As -> 1 Java Application.
-Você pode também editar o arquivo "text.txt" e digitar a frase que desejar que o programa irá ler esse arquivo. 
+Você pode também editar o arquivo "text.txt" e digitar a frase que desejar para que o programa leia esse arquivo. 
